@@ -1,0 +1,6 @@
+Execution times for Graph 4 (in seconds)
+.524586526
+.509040365
+.523226186
+.516270146
+.514382317

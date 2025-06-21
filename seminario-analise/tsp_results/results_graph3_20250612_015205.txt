@@ -1,0 +1,37 @@
+TSP Results for Graph 3 - qui 12 jun 2025 01:52:21 -04
+=============================================
+Iteration 1:
+
+=== Grafo 3 (n=10) ===
+Melhor rota: 0 -> 1 -> 3 -> 5 -> 6 -> 8 -> 7 -> 4 -> 2 -> 9 -> 0
+Distância total: 57
+Execution time: .047979296s
+----------------------------------------
+Iteration 2:
+
+=== Grafo 3 (n=10) ===
+Melhor rota: 0 -> 1 -> 3 -> 5 -> 6 -> 8 -> 7 -> 4 -> 2 -> 9 -> 0
+Distância total: 57
+Execution time: .047080771s
+----------------------------------------
+Iteration 3:
+
+=== Grafo 3 (n=10) ===
+Melhor rota: 0 -> 1 -> 3 -> 5 -> 6 -> 8 -> 7 -> 4 -> 2 -> 9 -> 0
+Distância total: 57
+Execution time: .049491241s
+----------------------------------------
+Iteration 4:
+
+=== Grafo 3 (n=10) ===
+Melhor rota: 0 -> 1 -> 3 -> 5 -> 6 -> 8 -> 7 -> 4 -> 2 -> 9 -> 0
+Distância total: 57
+Execution time: .047119827s
+----------------------------------------
+Iteration 5:
+
+=== Grafo 3 (n=10) ===
+Melhor rota: 0 -> 1 -> 3 -> 5 -> 6 -> 8 -> 7 -> 4 -> 2 -> 9 -> 0
+Distância total: 57
+Execution time: .047469952s
+----------------------------------------

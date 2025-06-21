@@ -1,0 +1,6 @@
+Execution times for Graph 1 (in seconds)
+.004445822
+.001604852
+.002015958
+.001591050
+.001503267

@@ -1,0 +1,123 @@
+Resultados das execuções do TSP Greedy
+=====================================
+
+Grafo 1:
+Distância total: 38
+Distância total: 38
+Tempos individuais:
+0m0,002s
+0m0,001s
+0m0,001s
+0m0,000s
+0m0,001s
+
+---------------------------------
+
+Grafo 2:
+Distância total: 76
+Distância total: 76
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,000s
+0m0,001s
+
+---------------------------------
+
+Grafo 3:
+Distância total: 59
+Distância total: 59
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+
+---------------------------------
+
+Grafo 4:
+Distância total: 237
+Distância total: 237
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,000s
+
+---------------------------------
+
+Grafo 5:
+Distância total: 308
+Distância total: 308
+Tempos individuais:
+0m0,001s
+0m0,000s
+0m0,001s
+0m0,001s
+0m0,001s
+
+---------------------------------
+
+Grafo 6:
+Distância total: 272
+Distância total: 272
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,000s
+
+---------------------------------
+
+Grafo 7:
+Distância total: 328
+Distância total: 328
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+
+---------------------------------
+
+Grafo 8:
+Distância total: 275
+Distância total: 275
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+
+---------------------------------
+
+Grafo 9:
+Distância total: 489
+Distância total: 489
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+
+---------------------------------
+
+Grafo 10:
+Distância total: 561
+Distância total: 561
+Tempos individuais:
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+
+---------------------------------
+

@@ -1,0 +1,22 @@
+TSP Benchmark Overall Summary - qui 12 jun 2025 01:52:57 -04
+==========================================
+Configuration:
+- Iterations per graph: 5
+- Compiler flags: -O2
+- Timestamp: 20250612_015205
+
+GRAPH 1:
+Average time: 0,000000s
+
+GRAPH 2:
+Average time: 0,000000s
+
+GRAPH 3:
+Average time: 0,000000s
+
+GRAPH 4:
+Average time: 0,000000s
+
+GRAPH 5:
+Average time: 6,000000s
+

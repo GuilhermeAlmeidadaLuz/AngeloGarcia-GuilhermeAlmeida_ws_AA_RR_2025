@@ -1,0 +1,6 @@
+Execution times for Graph 3 (in seconds)
+.047979296
+.047080771
+.049491241
+.047119827
+.047469952

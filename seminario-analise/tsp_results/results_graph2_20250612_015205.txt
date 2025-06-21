@@ -1,0 +1,37 @@
+TSP Results for Graph 2 - qui 12 jun 2025 01:52:21 -04
+=============================================
+Iteration 1:
+
+=== Grafo 2 (n=8) ===
+Melhor rota: 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 7 -> 0
+Distância total: 57
+Execution time: .002085834s
+----------------------------------------
+Iteration 2:
+
+=== Grafo 2 (n=8) ===
+Melhor rota: 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 7 -> 0
+Distância total: 57
+Execution time: .002072924s
+----------------------------------------
+Iteration 3:
+
+=== Grafo 2 (n=8) ===
+Melhor rota: 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 7 -> 0
+Distância total: 57
+Execution time: .002063921s
+----------------------------------------
+Iteration 4:
+
+=== Grafo 2 (n=8) ===
+Melhor rota: 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 7 -> 0
+Distância total: 57
+Execution time: .003851816s
+----------------------------------------
+Iteration 5:
+
+=== Grafo 2 (n=8) ===
+Melhor rota: 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 7 -> 0
+Distância total: 57
+Execution time: .002122708s
+----------------------------------------

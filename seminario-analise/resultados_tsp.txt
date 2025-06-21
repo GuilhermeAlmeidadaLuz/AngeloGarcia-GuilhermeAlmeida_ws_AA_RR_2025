@@ -1,0 +1,81 @@
+Resultados das execuções do TSP
+==============================
+
+Grafo 1:
+Melhor rota: 0 -> 2 -> 1 -> 3 -> 4 -> 0
+Distância total: 32
+Tempos individuais:
+0m0,002s
+0m0,001s
+0m0,001s
+0m0,001s
+0m0,001s
+
+Média: 0,0012s
+---------------------------------
+
+Grafo 2:
+Melhor rota: 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 7 -> 0
+Distância total: 57
+Tempos individuais:
+0m0,002s
+0m0,002s
+0m0,002s
+0m0,002s
+0m0,002s
+
+Média: 0,002s
+---------------------------------
+
+Grafo 3:
+Melhor rota: 0 -> 1 -> 3 -> 5 -> 6 -> 8 -> 7 -> 4 -> 2 -> 9 -> 0
+Distância total: 57
+Tempos individuais:
+0m0,149s
+0m0,145s
+0m0,152s
+0m0,149s
+0m0,149s
+
+Média: 0,1488s
+---------------------------------
+
+Grafo 4:
+Melhor rota: 0 -> 1 -> 6 -> 8 -> 10 -> 2 -> 4 -> 9 -> 7 -> 5 -> 3 -> 0
+Distância total: 237
+Tempos individuais:
+0m1,754s
+0m1,724s
+0m1,721s
+0m1,746s
+0m1,743s
+
+Média: 1,7376s
+---------------------------------
+
+Grafo 5:
+Melhor rota: 0 -> 1 -> 6 -> 11 -> 9 -> 4 -> 2 -> 7 -> 5 -> 3 -> 10 -> 8 -> 0
+Distância total: 273
+Tempos individuais:
+0m22,212s
+0m22,143s
+0m22,185s
+0m22,132s
+0m22,107s
+
+Média: 22,156s
+---------------------------------
+
+Grafo 6:
+Melhor rota: 0 -> 1 -> 6 -> 11 -> 9 -> 4 -> 2 -> 12 -> 7 -> 5 -> 3 -> 10 -> 8 -> 0
+Distância total: 267
+Tempos individuais:
+5m9,084s
+5m5,570s
+5m44,711s
+5m6,783s
+5m2,335s
+
+Média: 5m13,697s
+---------------------------------
+

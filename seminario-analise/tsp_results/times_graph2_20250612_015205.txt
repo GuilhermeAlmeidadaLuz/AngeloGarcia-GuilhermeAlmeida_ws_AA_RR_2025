@@ -1,0 +1,6 @@
+Execution times for Graph 2 (in seconds)
+.002085834
+.002072924
+.002063921
+.003851816
+.002122708

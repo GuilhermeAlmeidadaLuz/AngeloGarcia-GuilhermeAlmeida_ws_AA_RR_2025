@@ -1,0 +1,14 @@
+Summary for Graph 5 - qui 12 jun 2025 01:52:24 -04
+EXECUTION TIME STATISTICS:
+Number of iterations: 5
+Average time: 6,000000s
+Minimum time: 6,000000s
+Maximum time: 6,000000s
+Standard deviation: 0,000000s
+
+Individual times:
+Run 1: 6,000000s
+Run 2: 6,000000s
+Run 3: 6,000000s
+Run 4: 6,000000s
+Run 5: 6,000000s

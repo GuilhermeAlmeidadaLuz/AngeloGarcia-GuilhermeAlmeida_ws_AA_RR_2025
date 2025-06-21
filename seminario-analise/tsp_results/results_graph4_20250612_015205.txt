@@ -1,0 +1,37 @@
+TSP Results for Graph 4 - qui 12 jun 2025 01:52:21 -04
+=============================================
+Iteration 1:
+
+=== Grafo 4 (n=11) ===
+Melhor rota: 0 -> 1 -> 6 -> 8 -> 10 -> 2 -> 4 -> 9 -> 7 -> 5 -> 3 -> 0
+Distância total: 237
+Execution time: .524586526s
+----------------------------------------
+Iteration 2:
+
+=== Grafo 4 (n=11) ===
+Melhor rota: 0 -> 1 -> 6 -> 8 -> 10 -> 2 -> 4 -> 9 -> 7 -> 5 -> 3 -> 0
+Distância total: 237
+Execution time: .509040365s
+----------------------------------------
+Iteration 3:
+
+=== Grafo 4 (n=11) ===
+Melhor rota: 0 -> 1 -> 6 -> 8 -> 10 -> 2 -> 4 -> 9 -> 7 -> 5 -> 3 -> 0
+Distância total: 237
+Execution time: .523226186s
+----------------------------------------
+Iteration 4:
+
+=== Grafo 4 (n=11) ===
+Melhor rota: 0 -> 1 -> 6 -> 8 -> 10 -> 2 -> 4 -> 9 -> 7 -> 5 -> 3 -> 0
+Distância total: 237
+Execution time: .516270146s
+----------------------------------------
+Iteration 5:
+
+=== Grafo 4 (n=11) ===
+Melhor rota: 0 -> 1 -> 6 -> 8 -> 10 -> 2 -> 4 -> 9 -> 7 -> 5 -> 3 -> 0
+Distância total: 237
+Execution time: .514382317s
+----------------------------------------
